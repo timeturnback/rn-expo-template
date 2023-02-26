@@ -2652,6 +2652,11 @@
     color "^4.2.3"
     warn-once "^0.1.0"
 
+"@redcloudsteam/ui-rn@^0.2.1":
+  version "0.2.1"
+  resolved "https://registry.yarnpkg.com/@redcloudsteam/ui-rn/-/ui-rn-0.2.1.tgz#a6473bb2b9dae8981a1bebc677dd63bf9fddbcb8"
+  integrity sha512-EJrXcoktOSlIGAXJy+huzijLkF+KgEC/DrLy9//aIaVwm6Zw1G2BTs/ziVubFcliYLiHtyMlsGvxBLOneNkdXg==
+
 "@redux-saga/core@^1.2.2":
   version "1.2.2"
   resolved "https://registry.yarnpkg.com/@redux-saga/core/-/core-1.2.2.tgz#99b1daac93a42feecd9bab449f452f56f3155fea"
